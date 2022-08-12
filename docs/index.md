@@ -1,6 +1,6 @@
 Hello, my name is Devin, or as most people may know me, UltraStorm! I am currently learning C#, HTML and Python. Here's some stuff like my social links.
 
-Yes, this website doesn't have much. It's just a place for if you need to get my social links really.
+Yes, this website doesn't have much. It's just a place for if you need to get my social links and projects quickly.
 
 ## My Projects
 Here are a few projects I am currently working on.
