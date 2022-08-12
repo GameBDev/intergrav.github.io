@@ -2,6 +2,21 @@ Hello, my name is Devin, or as most people may know me, UltraStorm! I am current
 
 Yes, this website doesn't have much. It's just a place for if you need to get my social links and projects quickly.
 
+## Social Links
+[Discord](https://discord.com/users/418219211043897344)
+
+[YouTube](https://youtube.com/c/UltraStorm)
+
+[GitHub](https://github.com/intergrav)
+
+[Modrinth](https://modrinth.com/user/UltraStorm)
+
+[Bandcamp](https://ultrastorm.bandcamp.com/)
+
+[Twitter](https://twitter.com/Ultr4Storm)
+
+[Roblox](https://roblox.com/users/35643110/profile/)
+
 ## My Projects
 Here are a few projects I am currently working on.
 
@@ -23,18 +38,3 @@ Roblox module for creating custom 3D skies.
 
 #### [UPanel](https://github.com/intergrav/UPanel)
 Highly customizable admin panel for Roblox.
-
-## Social Links
-[Discord](https://discord.com/users/418219211043897344)
-
-[YouTube](https://youtube.com/c/UltraStorm)
-
-[GitHub](https://github.com/intergrav)
-
-[Modrinth](https://modrinth.com/user/UltraStorm)
-
-[Bandcamp](https://ultrastorm.bandcamp.com/)
-
-[Twitter](https://twitter.com/Ultr4Storm)
-
-[Roblox](https://roblox.com/users/35643110/profile/)
