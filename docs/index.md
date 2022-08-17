@@ -20,6 +20,10 @@ Yes, this website doesn't have much. It's just a place for if you need to get my
 ## My Projects
 Here are a few projects I am currently working on.
 
+### Extensions
+#### [Modrinth Extra](https://github.com/intergrav/Modrinth-Extra)
+Open source extension that adds extra animations and features to the Modrinth website.
+
 ### Minecraft Modpacks
 #### [Adrenaline](https://github.com/intergrav/Adrenaline)
 A modpack for Minecraft that makes your game extremely fast!
