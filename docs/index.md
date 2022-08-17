@@ -3,7 +3,7 @@ Hello, my name is Devin, or as most people may know me, UltraStorm! I am current
 Yes, this website doesn't have much. It's just a place for if you need to get my social links and projects quickly.
 
 ## Social Links
-[Discord](https://discord.com/users/418219211043897344)
+[Discord](https://discord.com/users/418219211043897344) ([Server](https://discord.gg/36Tv44cYte))
 
 [YouTube](https://youtube.com/c/UltraStorm)
 
