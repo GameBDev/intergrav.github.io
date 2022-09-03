@@ -1,6 +1,6 @@
-Hello, my name is Devin, or as most people may know me, UltraStorm! I am currently learning C#, HTML and Python. Here's some stuff like my social links.
+Hello, my name is Devin, or as most people may know me, UltraStorm! I do programming, music, visual design, and animation sometimes.
 
-Yes, this website doesn't have much. It's just a place for if you need to get my social links and projects quickly.
+Yes, this website doesn't have much. It's just here so that you can get my social links and projects quickly.
 
 ## Social Links
 [Discord](https://discord.com/users/418219211043897344) ([Server](https://discord.gg/36Tv44cYte))
@@ -21,24 +21,24 @@ Yes, this website doesn't have much. It's just a place for if you need to get my
 Here are a few projects I am currently working on.
 
 ### Extensions
-#### [Modrinth Extra](https://github.com/intergrav/Modrinth-Extra)
-Open source extension that adds extra animations and features to the Modrinth website.
+#### [Modrinth Extra](https://github.com/intergrav/Modrinth-Extra) [no longer maintained, open for PRs]
+Open source extension that adds extra animations and features to the Modrinth website. I don't really work on this anymore, but I will keep it open for pull requests. If it gets enough features I'll actually release it.
 
 ### Minecraft Modpacks
 #### [Adrenaline](https://github.com/intergrav/Adrenaline)
 A modpack for Minecraft that makes your game extremely fast!
 
 #### [Additive](https://github.com/intergrav/Additive)
-Some Optifine alternatives.
+A modpack for Minecraft that includes some Optifine alternatives!
 
-#### [Hammer](https://github.com/intergrav/Hammer)
-A modpack for Minecraft that makes your game extremely fast! But for Forge.
+#### [Hammer](https://github.com/intergrav/Hammer) [no longer maintained]
+A modpack for Minecraft that makes your game extremely fast, but for Forge!
 
-### Roblox Modules [no longer maintained]
-I don't make modules anymore, but here a few of my old ones.
+### Roblox Projects
+I don't make Roblox stuff anymore, but here a few of my old things.
 
-#### [Sky3D](https://github.com/intergrav/Sky3D)
+#### [Sky3D](https://github.com/intergrav/Sky3D) [no longer maintained]
 Roblox module for creating custom 3D skies.
 
-#### [UPanel](https://github.com/intergrav/UPanel)
+#### [UPanel](https://github.com/intergrav/UPanel) [no longer maintained]
 Highly customizable admin panel for Roblox.
