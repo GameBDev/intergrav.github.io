@@ -1,6 +1,6 @@
 Hello, my name is Devin! Most people may know me as UltraStorm or intergrav. I do programming, music, visual design, and animation sometimes. I am currently working on 2 Minecraft modpacks, and learning a few programming languages. I am also working on my new album, A Light in the Sky.
 
-## Social Links
+## 👋 Social Links
 [Discord](https://discord.com/users/418219211043897344) ([Minecraft Projects Server](https://discord.gg/36Tv44cYte)), [YouTube](https://youtube.com/c/UltraStorm), [GitHub](https://github.com/intergrav), [Modrinth](https://modrinth.com/user/UltraStorm), [Bandcamp](https://ultrastorm.bandcamp.com/), [Twitter](https://twitter.com/Ultr4Storm), [Roblox](https://roblox.com/users/35643110/profile/)
 
 # 📝 My Projects
@@ -8,16 +8,16 @@ If a project is marked with a red circle, that means I am no longer maintaining 
 
 Sadly I do not have too much free time, so I won't be able to work on much at a time. Feel free to fork any of these projects and keep on maintaining them - most of the stuff I work on is open source.
 
-## 🟢 <a href="https://github.com/intergrav/Adrenaline"><img alt="Adrenaline Logo" src="https://github.com/intergrav/Branding/blob/main/adrenaline/adrenaline_textlogo_256h.png" height="50"></a>
+## 🟢 [Adrenaline](https://github.com/intergrav/Adrenaline)
 Adrenaline is a minimal, base performance layer for Minecraft that tries to make the game as fast as possible.
 
-## 🟢 <a href="https://github.com/intergrav/Additive"><img alt="Additive Logo" src="https://github.com/intergrav/Branding/blob/main/additive/additive_textlogo_256h.png" height="44"></a>
+## 🟢 [Additive](https://github.com/intergrav/Additive)
 Additive is a simple, super-fast Optifine alternative modpack for Minecraft.
 
-## 🔴 <a href="https://github.com/intergrav/Hammer"><img alt="Hammer Logo" src="https://github.com/intergrav/Branding/blob/main/hammer/hammer_textlogo_256h.png" height="46"></a>
+## 🔴 [Hammer](https://github.com/intergrav/Hammer)
 Hammer is a minimal, base performance layer for Minecraft running on Forge.
 
-## 🔴 <a href="https://github.com/intergrav/Modrinth-Extra"><img alt="Modrinth Extra Logo" src="https://github.com/intergrav/Branding/blob/main/modrinthextra/dark_darker_textbig_48h.png" height="21"></a>
+## 🔴 [Modrinth Extra](https://github.com/intergrav/Modrinth-Extra)
 Open source extension that adds extra animations and features to the Modrinth website.
 
 ## 🔴 [Sky3D](https://github.com/intergrav/Sky3D)
