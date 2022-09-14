@@ -26,5 +26,5 @@ Sky3D is a Roblox module for quickly creating custom 3D skies.
 ## 🔴 [UPanel](https://github.com/intergrav/UPanel)
 UPanel is a highly customizable admin panel for Roblox.
 
-# ❓ Others
+# ❓ Other Stuff
 Need any of my branding for referencing me or any of my projects? Most of it will be [here](https://github.com/intergrav/Branding).
