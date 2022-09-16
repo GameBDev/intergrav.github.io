@@ -8,6 +8,9 @@ If a project is marked with a red circle, that means I am no longer maintaining 
 
 Sadly I do not have too much free time, so I won't be able to work on much at a time. Feel free to fork any of these projects and keep on maintaining them - most of the stuff I work on is open source.
 
+## 🟢 [Devin's Badges](https://github.com/intergrav/devins-badges)
+Beautifully designed badges for many services.
+
 ## 🟢 [Adrenaline](https://github.com/intergrav/Adrenaline)
 Adrenaline is a minimal, base performance layer for Minecraft that tries to make the game as fast as possible.
 
