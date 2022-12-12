@@ -1,4 +1,3 @@
-# 📰 About Me
 Hello, my name is Devin! Most people may know me as UltraStorm or intergrav. I do programming, music, visual design, and animation sometimes. I am currently working on a badge library, 2 Minecraft modpacks, and learning a few programming languages. I am also working on my new album, A Light in the Sky.
 
 # 👋 Social Links
